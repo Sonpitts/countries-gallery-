@@ -9,7 +9,7 @@ function App() {
     <div className="app-container">
       <header>
         <h1>
-          <Link to="/">Country Gallery</Link>
+          <Link to="/">Countries Gallery</Link>
         </h1>
       </header>
       <main>
